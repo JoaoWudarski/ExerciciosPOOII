@@ -1,0 +1,2 @@
+INSERT INTO employee (name, address, age) VALUES ('João Antonio', 'Rua XV, 1212 – Sorocaba/SP', 21);
+INSERT INTO employee (name, address, age) VALUES ('Maria Silva', 'Rua Tereza, 23 – Sorocaba/SP', 32);
